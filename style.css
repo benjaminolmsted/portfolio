@@ -3,3 +3,12 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     width: 900px;
 }
+
+div {
+    margin: auto;
+    width: 50%;
+}
+
+li {
+    padding: 5px;
+}
